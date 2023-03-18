@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+    font-size: 25px;
+    color:aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    outline-color: blueviolet;
+    outline-width: 30px;
+    outline-style: dotted;
+
+}
+#link {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    
+}
+
+body {
+    background-color: brown;
+}
